@@ -1,3 +1,1 @@
-username=input("enter username: ")
-password=input("enter password: ")
-print("login successful")
+print('Welcome to Login Page')
